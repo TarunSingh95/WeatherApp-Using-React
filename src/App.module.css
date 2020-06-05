@@ -1,0 +1,33 @@
+
+.searchContainer{
+  width: 40%;
+  margin: 0 auto;
+}
+.searchBox{
+  width: 100%;
+  padding: 20px 10px;
+  margin: 10px 0px;
+  border: 1px solid grey;
+  outline: none;
+  appearance: none;
+  box-shadow: 2px 4px grey;
+  font-size: 1rem;
+}
+.weatherContainer{
+  width: 50%;
+  margin: 10px auto;
+  padding: 20px 10px;
+  text-align: center;
+}
+.summer{
+  width: 100%;
+  max-width: 200px;
+  text-align: center;
+  margin: 2em;
+}
+.winter{
+  margin: 2em;
+  width: 100%;
+  max-width: 300px;
+  text-align: center;
+}
