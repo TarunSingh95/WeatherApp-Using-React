@@ -10,7 +10,7 @@ function App() {
 
   const search = (e) =>{
       if (e.key === 'Enter'){
-        fetch("https://api.openweathermap.org/data/2.5/weather?q=" + query + "&units=metric&appid=ec8d83ad117af11ea0cf455de648808e")
+        fetch(`https://api.openweathermap.org/data/2.5/weather?q=${query}&units=metric&appid=${process.env.KEY`)
         .then(res => res.json())
         .then(result => {
           setQuery(''); 
