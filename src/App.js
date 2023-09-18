@@ -9,6 +9,8 @@ import classes from './App.module.css'
 import cold from './assets/cold-weather.png'
 import hot from './assets/hot-weather.png'
 
+//Function APP
+
 function App() {
   
   const [query, setQuery] = useState('');
