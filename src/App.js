@@ -1,3 +1,9 @@
+/* 
+
+===========WEATHER APP==========
+
+*/
+
 import React, {useState} from 'react';
 import classes from './App.module.css'
 import cold from './assets/cold-weather.png'
