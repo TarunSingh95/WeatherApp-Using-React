@@ -1,10 +1,6 @@
 /* 
 
-<<<<<<< HEAD
-===========WEATHER APP APP==========
-=======
 ===========WEATHER APP REACT APP==========
->>>>>>> master
 
 */
 
